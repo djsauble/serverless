@@ -175,7 +175,6 @@
     "download": "^7.1.0",
     "essentials": "^1.1.1",
     "fast-levenshtein": "^2.0.6",
-    "filesize": "^3.6.1",
     "fs-extra": "^0.30.0",
     "get-stdin": "^5.0.1",
     "globby": "^6.1.0",
