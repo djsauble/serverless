@@ -172,7 +172,6 @@
     "d": "^1.0.1",
     "dayjs": "^1.8.25",
     "decompress": "^4.2.1",
-    "download": "^7.1.0",
     "essentials": "^1.1.1",
     "fast-levenshtein": "^2.0.6",
     "filesize": "^3.6.1",
